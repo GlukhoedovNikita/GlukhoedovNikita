@@ -1,6 +1,6 @@
 # Hi there 👋
 ___
-### About me 🧑‍💻
+## About me 🧑‍💻
 ~~~javascript
 const FrontendDeveloper = {
     name: 'Nikita',
