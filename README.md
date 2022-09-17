@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hi there 👋
+___
+### About me 🧑‍💻
+~~~javascript
+const FrontendDeveloper = {
+    name: 'Nikita',
+    skills: {
+        frontend: [
+            'react',
+            'scss',
+            'es6',
+            'redux toolkit',
+            'typescript',
+        ],
+        backend: [
+            'node js',
+            'express js',
+            'mongo db',
+            'postgre sql',
+        ],
+        common: [
+            'docker',
+            'webpack',
+            'jest',
+            'react testing library',
+        ],
+    },
+    hello() {
+        console.log('Thanks for dropping by.')
+    }
+}
 
-<!--
-**GlukhoedovNikita/GlukhoedovNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FrontendDeveloper.hello()
+~~~
+___
+## Сontacts 👀
+🐱 -> [Telegram](https://t.me/dvun0g)
+<br />
+✉️ -> [Mail](mailto:admin@cloudhadoop.com)
