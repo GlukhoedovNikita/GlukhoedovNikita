@@ -36,4 +36,4 @@ ___
 ## Сontacts 👀
 🐱 -> [Telegram](https://t.me/dvun0g)
 <br />
-✉️ -> [Mail](mailto:admin@cloudhadoop.com)
+✉️ -> [Mail](mailto:dvun0g.work@yandex.ru)
